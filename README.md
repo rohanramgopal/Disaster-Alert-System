@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # 🚨 Disaster Alert System
 
 ![Java](https://img.shields.io/badge/Backend-Java%20(Spring%20Boot)-red?style=for-the-badge&logo=springboot)
