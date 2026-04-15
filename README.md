@@ -129,7 +129,7 @@ Full-stack portfolio project
 
 👨‍💻 Author
 Rohan Ramgopal
-📍 Bengaluru, India
+
 
 
 
