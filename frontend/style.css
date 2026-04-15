@@ -1,0 +1,57 @@
+:root {
+  --bg: #06152d;
+  --bg2: #0d2347;
+  --panel: rgba(255, 255, 255, 0.08);
+  --panel-border: rgba(255, 255, 255, 0.12);
+  --text: #f8fbff;
+  --muted: #d2e0f2;
+  --blue: #1d4ed8;
+  --blue2: #2563eb;
+  --teal: #0f766e;
+  --teal2: #14b8a6;
+  --orange: #c2410c;
+  --orange2: #f97316;
+  --shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: var(--text);
+  background: linear-gradient(135deg, var(--bg), var(--bg2));
+}
+
+.navbar {
+  padding: 16px 24px;
+  display: flex;
+  justify-content: space-between;
+  background: #021024;
+}
+
+.nav-links a {
+  margin: 0 10px;
+  color: #cfe3ff;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.container {
+  padding: 30px;
+}
+
+input, textarea, select {
+  padding: 10px;
+  margin: 6px 0;
+  width: 250px;
+}
+
+button {
+  padding: 10px 16px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
